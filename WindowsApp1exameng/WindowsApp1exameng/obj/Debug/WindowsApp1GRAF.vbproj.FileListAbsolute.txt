@@ -1,0 +1,11 @@
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsApp1GRAF\bin\Debug\WindowsApp1GRAF.exe.config
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsApp1GRAF\bin\Debug\WindowsApp1GRAF.exe
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsApp1GRAF\bin\Debug\WindowsApp1GRAF.pdb
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsApp1GRAF\bin\Debug\WindowsApp1GRAF.xml
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsApp1GRAF\obj\Debug\WindowsApp1GRAF.vbprojResolveAssemblyReference.cache
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsApp1GRAF\obj\Debug\WindowsApp1GRAF.Form1.resources
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsApp1GRAF\obj\Debug\WindowsApp1GRAF.Resources.resources
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsApp1GRAF\obj\Debug\WindowsApp1GRAF.vbproj.GenerateResource.Cache
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsApp1GRAF\obj\Debug\WindowsApp1GRAF.exe
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsApp1GRAF\obj\Debug\WindowsApp1GRAF.xml
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsApp1GRAF\obj\Debug\WindowsApp1GRAF.pdb
